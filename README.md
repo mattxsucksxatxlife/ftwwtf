@@ -1,4 +1,7 @@
 ftwwtf
-======
+=====
 ghe-cleanup-repos
-#using enterprise Git to check the repos for damage
+# enterprise Git to check the repos 
+init damage
+init post diff info
+# so iOS can learn
