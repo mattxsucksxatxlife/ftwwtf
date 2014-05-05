@@ -1,0 +1,4 @@
+$git config reset --config reset:hard \
+fsck repository(ftwwtf) \
+#init profile -alias=debug -set:severity=high \
+\
